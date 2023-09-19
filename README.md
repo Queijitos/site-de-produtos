@@ -7,6 +7,7 @@
 <h1>Produtos do site</h1>
 <ul>
   <li>Devil May Cry 5</li>
+  <img src="imagens/">
   <li>Dying Light</li>
   <li>God Of War Ragnarok</li>
   <li>Resident Evil 4 Remake</li>
